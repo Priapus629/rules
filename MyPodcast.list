@@ -1,0 +1,6 @@
+# NAME: MyPodcast
+# DESCRIPTION: 第三方播客平台补充规则
+
+DOMAIN-SUFFIX,firstory.me
+DOMAIN-SUFFIX,soundon.fm
+DOMAIN-SUFFIX,pse.is
